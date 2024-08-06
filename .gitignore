@@ -1,0 +1,8 @@
+node_modules/
+.env
+coverage/
+.tmp
+*.log
+*.cache
+npm-debug.log
+package-lock.json
